@@ -1,0 +1,14 @@
+W:\Users\prodi\source\repos\HideApps\bin\Debug\net7.0-windows\HideApps.exe
+W:\Users\prodi\source\repos\HideApps\bin\Debug\net7.0-windows\HideApps.deps.json
+W:\Users\prodi\source\repos\HideApps\bin\Debug\net7.0-windows\HideApps.runtimeconfig.json
+W:\Users\prodi\source\repos\HideApps\bin\Debug\net7.0-windows\HideApps.dll
+W:\Users\prodi\source\repos\HideApps\bin\Debug\net7.0-windows\HideApps.pdb
+W:\Users\prodi\source\repos\HideApps\obj\Debug\net7.0-windows\HideApps.GeneratedMSBuildEditorConfig.editorconfig
+W:\Users\prodi\source\repos\HideApps\obj\Debug\net7.0-windows\HideApps.AssemblyInfoInputs.cache
+W:\Users\prodi\source\repos\HideApps\obj\Debug\net7.0-windows\HideApps.AssemblyInfo.cs
+W:\Users\prodi\source\repos\HideApps\obj\Debug\net7.0-windows\HideApps.csproj.CoreCompileInputs.cache
+W:\Users\prodi\source\repos\HideApps\obj\Debug\net7.0-windows\HideApps.dll
+W:\Users\prodi\source\repos\HideApps\obj\Debug\net7.0-windows\refint\HideApps.dll
+W:\Users\prodi\source\repos\HideApps\obj\Debug\net7.0-windows\HideApps.pdb
+W:\Users\prodi\source\repos\HideApps\obj\Debug\net7.0-windows\HideApps.genruntimeconfig.cache
+W:\Users\prodi\source\repos\HideApps\obj\Debug\net7.0-windows\ref\HideApps.dll
