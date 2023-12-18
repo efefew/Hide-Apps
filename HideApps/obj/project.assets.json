@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "W:\\Users\\prodi\\source\\repos\\HideApps\\HideApps.csproj",
+      "projectUniqueName": "W:\\Users\\prodi\\Documents\\GitHub\\Hide-Apps\\HideApps\\HideApps.csproj",
       "projectName": "HideApps",
-      "projectPath": "W:\\Users\\prodi\\source\\repos\\HideApps\\HideApps.csproj",
+      "projectPath": "W:\\Users\\prodi\\Documents\\GitHub\\Hide-Apps\\HideApps\\HideApps.csproj",
       "packagesPath": "W:\\Users\\prodi\\.nuget\\packages\\",
-      "outputPath": "W:\\Users\\prodi\\source\\repos\\HideApps\\obj\\",
+      "outputPath": "W:\\Users\\prodi\\Documents\\GitHub\\Hide-Apps\\HideApps\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "W:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

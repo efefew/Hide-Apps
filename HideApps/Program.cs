@@ -23,34 +23,26 @@ internal class HideApps
 
     private static void Main()
     {
-        AutoRun(true);
+        AutoRun();
 
         List<string> hideProcesses;
         using StreamReader reader = new($"{APPLICATION_PATH}.txt");
         hideProcesses = reader.ReadToEnd().Split("\r\n").ToList();
-
-        for (int id = 0; id < hideProcesses.Count; id++)
-        {
-            Console.WriteLine(hideProcesses[id]);
-        }
 
         while (hideProcesses.Count > 0)
         {
             Thread.Sleep(MILLISECONDS_TIMEOUT);
             foreach (Process process in Process.GetProcesses())
             {
-                if (hideProcesses.Contains(process.ProcessName))
+                if (hideProcesses.Contains(process.MainWindowTitle))
                 {
-                    Console.WriteLine(process.ProcessName);
                     _ = ShowWindow(process.MainWindowHandle, SW_HIDE);
-                    _ = hideProcesses.Remove(process.ProcessName);
+                    _ = hideProcesses.Remove(process.MainWindowTitle);
                     if (hideProcesses.Count == 0)
                         break;
                 }
             }
         }
-
-        _ = Console.ReadLine();
     }
 
     /// <summary>
